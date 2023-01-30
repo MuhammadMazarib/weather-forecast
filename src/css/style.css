@@ -1,0 +1,25 @@
+
+.box{
+    font-family: "Jost", sans-serif;
+
+    width:500px;
+height: 600px;
+margin-left: 30%;
+margin-top: 5%;
+background-color: aquamarine;
+font-size:80%;
+font-weight:bold;
+color:black;
+border-radius: 5%;
+border-color: black;
+border-style:hidden;
+box-shadow: 10px 10px 30px grey;
+}
+
+
+.inputfield{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px;
+}
